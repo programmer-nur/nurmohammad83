@@ -83,7 +83,9 @@
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nurmohammad83&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2)](https://git.io/streak-stats)
+![GitHub metrics](https://metrics.lecoq.io/nurmohammad83)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nurmohammad83)  
 
 
 
