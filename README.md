@@ -6,7 +6,7 @@
 
 
 <h1 align="center">HI, I Am Nur Mohammad, A Professional Front-end Web Developer</h1>
-<h3 align="left">I am Nur Mohammad based in Cumilla, Bangladesh . I am a passionate Web Developer. I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React & Javascript. Also, I have keen interest in backend. I am eager about machine learning as its name bombers curiosity to new programmers</h3>
+<h3 align="left">I am Nur Mohammad based in Cumilla, Bangladesh . I am a passionate Web Developer. I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React & Javascript. Also, I have been interest in backend.</h3>
 
 <!-- <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"> -->
 <br>
