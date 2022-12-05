@@ -17,7 +17,7 @@
 # 📫 Reach me out! 
 
 [![Twitter Badge](https://img.shields.io/badge/-@nurmohammad-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nazmul162001)](https://twitter.com/NurMohammad5480)  
-[![Linkedin Badge](https://img.shields.io/badge/-Nur Mohammad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-mohammad-0a1137259/) [![Mail Badge](https://img.shields.io/badge/-mohammadnur5480@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohammadnur5480@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-NurMohammad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-mohammad-0a1137259/) [![Mail Badge](https://img.shields.io/badge/-mohammadnur5480@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohammadnur5480@gmail.com)
 
 📬 Or Contact- **mohammadnur5480@gmail.com**
 <br>
@@ -80,11 +80,4 @@
 [linkedin]: https://www.linkedin.com/in/nur-mohammad-0a1137259/
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurmohammad83&langs_count=8)](https://github.com/nurmohammad83/github-readme-stats) -->
-
-<br>
-![GitHub metrics](https://metrics.lecoq.io/nurmohammad83)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nurmohammad83)  
-
-
 
