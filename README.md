@@ -1,12 +1,6 @@
-![Profile views](https://gpvc.arturio.dev/nazmul162001)  
-
-<!-- <div align="right" width="350"> -->
- <img alt="coding" align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
-<!-- </div> -->
 
 
-<h1 align="center">HI, I Am Nur Mohammad, A Professional Front-end Web Developer</h1>
-<h3 align="left">I am Nur Mohammad based in Cumilla, Bangladesh . I am a passionate Web Developer. I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React & Javascript. Also, I have been interest in backend.</h3>
+ <img alt="coding" align="right" width="100%" src="https://i.ibb.co/0qnkMwc/n-UR-MOHAMMAD-1.png">
 
 <!-- <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"> -->
 <br>
