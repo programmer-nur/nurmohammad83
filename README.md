@@ -10,21 +10,18 @@
 
 # 📫 Reach me out! 
 
-[![Twitter Badge](https://img.shields.io/badge/-@nurmohammad-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nazmul162001)](https://twitter.com/NurMohammad5480)  
-[![Linkedin Badge](https://img.shields.io/badge/-NurMohammad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-mohammad-0a1137259/) [![Mail Badge](https://img.shields.io/badge/-mohammadnur5480@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohammadnur5480@gmail.com)
+ [![Twitter Badge](https://img.shields.io/badge/-@nurmohammad-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nazmul162001)](https://twitter.com/NurMohammad5480) [![Linkedin Badge](https://img.shields.io/badge/-NurMohammad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-mohammad-0a1137259/) [![Mail Badge](https://img.shields.io/badge/-mohammadnur5480@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohammadnur5480@gmail.com)
 
 📬 Or Contact- **mohammadnur5480@gmail.com**
 <br>
 <!-- Top Technologies -->
 # Top Technologies
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Expressjs Badge](https://img.shields.io/badge/-Expressjs-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
 
 <br>
-
-# Example of Work
-<img src = "https://github.com/adriantwarog/adriantwarog/raw/master/covid19.gif" width="350" height="210" />
+<br>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -36,7 +33,7 @@
 
 <!-- ### Connect with Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://https://github.com/nurmohammad83/nurmohammad83)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nur-mohammad-0a1137259/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://web.facebook.com/nurmohammad54800)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mohammadnur5480/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NurMohammad5480)  
-<br /> -->
+<br /> 
 
 ### Languages and Tools:
 
